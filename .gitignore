@@ -1,0 +1,3 @@
+# Used to ignore files that we don't want git to keep track of for whatever reason
+*.obj
+*.exe
